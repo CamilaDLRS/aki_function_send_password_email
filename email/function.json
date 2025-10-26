@@ -7,7 +7,7 @@
       "direction": "in",
       "name": "req",
       "methods": ["post"],
-  "route": "email/password-setup"
+      "route": "email"
     },
     {
       "type": "http",
